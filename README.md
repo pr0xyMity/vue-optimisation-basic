@@ -8,6 +8,7 @@ Learning how to and why to optimize the code and make it run smoother and faster
 
 [Vue.js App Performance Optimization: part 3— Lazy loading Vuex modules](https://itnext.io/vue-js-app-performance-optimization-part-3-lazy-loading-vuex-modules-ed67cf555976)
 
+[The Web Optimization trick you might have missed](https://medium.freecodecamp.org/web-optimization-a-secret-world-to-unleash-5fbdf1065945)
 
 ## Documentation
 [SplitChunksPlugin](https://webpack.js.org/plugins/split-chunks-plugin/)
